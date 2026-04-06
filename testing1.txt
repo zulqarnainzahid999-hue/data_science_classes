@@ -1,0 +1,14 @@
+User 1
+First Name : Zulqarnain
+Last Name  : Zahid
+Gender     : Male
+Campus     : SMIT
+Age        : 20
+
+User 2
+First Name : Ali
+Last Name  : Khan
+Gender     : Male
+Campus     : SMIT
+Age        : 22
+
